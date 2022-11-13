@@ -1,8 +1,12 @@
 # PS3-Base-de-connaissance-FR
 Suivi de version du document Dossier - Playstation 3 Base de connaissances V1.3 FR (Anciennement "Dossier - Playstation 3 OFFICIEL V1.2")
 
+***Pour une consultation de ce document, nous conseillons de le télécharger, vous pourrez naviguer rapidement à l'aide du bouton "Table des matières" via un viewer PDF.***
+
 Bonjour à tous.
 Aujourd'hui je publie ce document à tout public, qui répertorie un ensemble de connaissances, regroupés dans un seul et même document (Le principe d'une base de connaissance :p)
+
+
 
 Ce document est un document non officiel Sony rédigé par Argonn et une communauté de passionnés et Amateurs de bricolage et de réparations. Tous les paragraphes recensés dans ce document peuvent contenir des informations officielles, et non officielles, allant du fait réel et prouvé, aux faits non prouvés, non vérifiables ou non confirmées et/ou non approuvés par le fabriquant Sony, allant de la découverte à l’expérimentation, du doute à la croyance et à l’estimation, de l’approximation à la certitude. 
 
