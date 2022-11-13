@@ -1,5 +1,5 @@
 # PS3-Base-de-connaissance-FR
-Suivi de version du document Dossier - Playstation 3 Base de connaissances V1.3 FR (Anciennement "Dossier - Playstation 3 OFFICIEL V1.0")
+Suivi de version du document Dossier - Playstation 3 Base de connaissances V1.3 FR (Anciennement "Dossier - Playstation 3 OFFICIEL V1.2")
 
 Bonjour à tous.
 Aujourd'hui je publie ce document à tout public, qui répertorie un ensemble de connaissances, regroupés dans un seul et même document (Le principe d'une base de connaissance :p)
